@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 记录与迷思</title>
-    <link>https://pingqvgjj.github.io/post/</link>
-    <description>Recent content in Posts on 记录与迷思</description>
+    <title>运动 on 记录与迷思</title>
+    <link>https://pingqvgjj.github.io/tags/%E8%BF%90%E5%8A%A8/</link>
+    <description>Recent content in 运动 on 记录与迷思</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 22:05:56 +0800</lastBuildDate><atom:link href="https://pingqvgjj.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 22:05:56 +0800</lastBuildDate><atom:link href="https://pingqvgjj.github.io/tags/%E8%BF%90%E5%8A%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>火球AV31镜片安装</title>
       <link>https://pingqvgjj.github.io/p/%E7%81%AB%E7%90%83av31%E9%95%9C%E7%89%87%E5%AE%89%E8%A3%85/</link>
@@ -22,15 +22,6 @@
 注意这个垫圈是两个边缘是收窄的。 模块垫圈
 最后看一下瞄芯安装定位孔，就是下面照片的四个孔，安装光纤的时候需要将模块上的两个突起放入孔中，描点就正好居中了~
 默认自带的十字瞄芯也可以用4个孔大概定一下位。 瞄芯定位孔</description>
-    </item>
-    
-    <item>
-      <title>测试第一个</title>
-      <link>https://pingqvgjj.github.io/p/%E6%B5%8B%E8%AF%95%E7%AC%AC%E4%B8%80%E4%B8%AA/</link>
-      <pubDate>Thu, 31 Dec 2020 17:03:40 +0800</pubDate>
-      
-      <guid>https://pingqvgjj.github.io/p/%E6%B5%8B%E8%AF%95%E7%AC%AC%E4%B8%80%E4%B8%AA/</guid>
-      <description>第一篇测试</description>
     </item>
     
   </channel>
